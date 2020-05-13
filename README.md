@@ -1,3 +1,3 @@
 # MultithreadingDownloader
-基于python的多线程下载工具
-克隆过来保存的，顺便改了一下logger行为
+基于python的多线程下载工具，这个工具其实是多进程下载的，由于python存在全局锁，多线程下载实际上比单线程下载还慢哈哈哈，但是这个工具可以跑满
+克隆过来保存的，顺便准备改一下logger行为（TODO)
